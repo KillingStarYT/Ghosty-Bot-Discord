@@ -1,1 +1,1 @@
-# Ghosty-Bot-Discord
+# Ghosty
